@@ -1,0 +1,4 @@
+name: go-pulumi-static
+runtime: go
+main: infrastructure/pulumi
+description: A minimal AWS Go Pulumi program
