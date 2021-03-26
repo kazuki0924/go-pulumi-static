@@ -1,4 +1,4 @@
-module go-pulumi-static
+module github.com/kazuki0924/go-pulumi-static
 
 go 1.16
 
